@@ -9,3 +9,5 @@ while bottle > 0
   puts
   bottle -= 1
 end
+
+puts 'now your freakin wasted!'
